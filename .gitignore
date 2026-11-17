@@ -1,0 +1,10 @@
+# Data files (download the dataset from Kaggle, see README)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Power BI temp files
+*.pbi*.tmp
